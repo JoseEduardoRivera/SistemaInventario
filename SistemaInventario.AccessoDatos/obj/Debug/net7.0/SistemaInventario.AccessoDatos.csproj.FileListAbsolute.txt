@@ -1,0 +1,17 @@
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\bin\Debug\net7.0\SistemaInventario.AccessoDatos.deps.json
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\bin\Debug\net7.0\SistemaInventario.AccessoDatos.dll
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\bin\Debug\net7.0\SistemaInventario.AccessoDatos.pdb
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\bin\Debug\net7.0\SistemaInventario.Modelos.dll
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\obj\Debug\net7.0\SistemaInventario.AccessoDatos.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\obj\Debug\net7.0\SistemaInventario.AccessoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\obj\Debug\net7.0\SistemaInventario.AccessoDatos.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\obj\Debug\net7.0\SistemaInventario.AccessoDatos.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\obj\Debug\net7.0\SistemaInventario.AccessoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\obj\Debug\net7.0\SistemaInventario.AccessoDatos.csproj.CopyComplete
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\obj\Debug\net7.0\SistemaInventario.AccessoDatos.dll
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\obj\Debug\net7.0\refint\SistemaInventario.AccessoDatos.dll
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\obj\Debug\net7.0\SistemaInventario.AccessoDatos.pdb
+C:\Users\Eduardo\Documents\Carpeta Dev\dotnet proyects\Proyect2\WebPage\SistemaInventario.AccessoDatos\obj\Debug\net7.0\ref\SistemaInventario.AccessoDatos.dll
